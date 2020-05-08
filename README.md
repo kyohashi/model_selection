@@ -8,4 +8,4 @@ pip install git+https://github.com/kyohashi/model_selection.git
 
 ## How to Use
 
-See [gmm_usecase.html](https://github.com/kyohashi/model_selection/blob/master/gmm_usecase.html)
+See [gmm_usecase.html](https://kyohashi.github.io/model_selection/gmm_usecase.html)
